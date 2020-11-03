@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/carsharing-internship/build/static/css/main.a6159ebd.chunk.css",
+    "main.js": "/carsharing-internship/build/static/js/main.5d819016.chunk.js",
+    "main.js.map": "/carsharing-internship/build/static/js/main.5d819016.chunk.js.map",
+    "runtime-main.js": "/carsharing-internship/build/static/js/runtime-main.28f09aa8.js",
+    "runtime-main.js.map": "/carsharing-internship/build/static/js/runtime-main.28f09aa8.js.map",
+    "static/js/2.ca274926.chunk.js": "/carsharing-internship/build/static/js/2.ca274926.chunk.js",
+    "static/js/2.ca274926.chunk.js.map": "/carsharing-internship/build/static/js/2.ca274926.chunk.js.map",
+    "static/js/3.ec83e4d2.chunk.js": "/carsharing-internship/build/static/js/3.ec83e4d2.chunk.js",
+    "static/js/3.ec83e4d2.chunk.js.map": "/carsharing-internship/build/static/js/3.ec83e4d2.chunk.js.map",
+    "index.html": "/carsharing-internship/build/index.html",
+    "static/css/main.a6159ebd.chunk.css.map": "/carsharing-internship/build/static/css/main.a6159ebd.chunk.css.map",
+    "static/js/2.ca274926.chunk.js.LICENSE.txt": "/carsharing-internship/build/static/js/2.ca274926.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28f09aa8.js",
+    "static/js/2.ca274926.chunk.js",
+    "static/css/main.a6159ebd.chunk.css",
+    "static/js/main.5d819016.chunk.js"
+  ]
+}
